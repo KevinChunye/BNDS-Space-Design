@@ -13,8 +13,19 @@ Most of the works are created by OG members of team Sophons(name order doesn't m
 Haochuan Wang, Yichen Wang, Jiaying Zhou, Bingan Chen, Yifei Li, Runxin Yan, 
 Chuqiao Chen, Ziqian Zhao, Jiarui Wu, Chi Sun, Qiyao Wang, Boyan Zhang
 
-<img src="[https://camo.githubusercontent.com/...](https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/Sophons_BNDS_Space%20Design.jpg
-)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="200" />
+<img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/Sophons_BNDS_Space%20Design.jpg" width="450" height="340" />
+
+
+Weekly Workshop
+
+<img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/BNDS_Space_Design_Weekly_Workshop.jpg" width="450" height="340" />
+
+Mock Competition
+
+<img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/BNDS_Space_Design_Mock_Competition.jpg" width="500" height="300" />
+
+
+
 
 
 BNDS Space Design Workshop Wechat Account
