@@ -1,11 +1,14 @@
 # BNDS-Space-Design
 Several proposals created by members in BNDS Space Design Workshop 
+
 (Special thanks to 2020 BNDS graduate aka. OG advisor Mingpu Liu, Yulan Zhou)
 
-Special thanks to the OG founders of this club 2018-2020:
+OG founders of this club 2018-2020:
+
 Jiaying Zhou, Yuanhe Li, Yichen Wang, Bingan Chen, Haochuan Wang, Yifei Li... Any many others in BNDS
 
 2021-2022:
+
 Lingxi Han, Yunshi Qi
 
 
