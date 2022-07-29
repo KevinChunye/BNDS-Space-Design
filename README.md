@@ -12,7 +12,7 @@ Lingxi Han, Yunshi Qi
 Most of the works are created by OG members of team Sophons(name order doesn't mean anything, reaching out for name credit):
 Haochuan Wang, Yichen Wang, Jiaying Zhou, Bingan Chen, Yifei Li, Runxin Yan, 
 Chuqiao Chen, Ziqian Zhao, Jiarui Wu, Chi Sun, Qiyao Wang, Boyan Zhang
-
+![](images/Sophons BNDS Space Design.jpg)
 
 
 
