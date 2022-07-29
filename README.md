@@ -16,5 +16,5 @@ Chuqiao Chen, Ziqian Zhao, Jiarui Wu, Chi Sun, Qiyao Wang, Boyan Zhang
 
 
 
-BNDS Space Design Club Wechat Account
+BNDS Space Design Workshop Wechat Account
 https://mp.weixin.qq.com/s/w9131u1L9qpycEUYAZwXQg
