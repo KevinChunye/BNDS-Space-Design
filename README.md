@@ -1,12 +1,13 @@
 # BNDS-Space-Design-Workshop
-Several proposals created by members in BNDS Space Design Workshop 
-(Special thanks to 2020 BNDS graduate aka. OG advisor Mingpu Liu, Yulan Zhou)
+Several proposals created by members in Beijing National Day School Space Design Workshop 
+
+(Special thanks to OG advisor Mingpu Liu, Yulan Zhou from BNDS class 2020)
 
 OG founders of this workshop 2018-2020:
-Jiaying Zhou, Yuanhe Li, Yichen Wang, Bingan Chen, Haochuan Wang, Yifei Li... and many other great fellas in BNDS
+Jiaying Zhou, Yuanhe Li, Yichen Wang, Bingan Chen, Haochuan Wang, Yifei Li... and many other great fellas from BNDS class 2021
 
 2021-2022:
-Lingxi Han, Yunshi Qi
+Lingxi Han, Yunshi Qi (from BNDS class 2022)
 
 
 Most of the works are created by OG members of team Sophons(name order doesn't mean anything, reaching out for name credit):
