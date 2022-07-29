@@ -24,7 +24,11 @@ Mock Competition
 
 <img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/BNDS_Space_Design_Mock_Competition.jpg" width="500" height="300" />
 
+The First Move member:
+Yunshi Qi, Zichu Wang, Tianrun Yu, Minghe Fu, Xutao Mao, Shiyu Zhang, 
+Yixuan Xin, Mairui Li, Yuxuan Cai, Ruidong Du, Yifeng Chen, Wangjie Li
 
+<img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/TheFirstMove%20BNDS%20Space%20Design.jpg" width="500" height="380" />
 
 
 
