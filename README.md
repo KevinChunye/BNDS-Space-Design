@@ -3,7 +3,7 @@ Several proposals created by members in BNDS Space Design Workshop
 (Special thanks to 2020 BNDS graduate aka. OG advisor Mingpu Liu, Yulan Zhou)
 
 OG founders of this workshop 2018-2020:
-Jiaying Zhou, Yuanhe Li, Yichen Wang, Bingan Chen, Haochuan Wang, Yifei Li... Any many others in BNDS
+Jiaying Zhou, Yuanhe Li, Yichen Wang, Bingan Chen, Haochuan Wang, Yifei Li... and many other great fellas in BNDS
 
 2021-2022:
 Lingxi Han, Yunshi Qi
