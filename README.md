@@ -3,7 +3,7 @@ Several proposals created by members in Beijing National Day School Space Design
 
 
 OG founders of this workshop 2018-2020:
-Sophons members, Yuanhe li & some great fellas from class 2021, and our OG advisors Mingpu Liu, Yulan Zhou, Yulun Wu from BNDS class 2020
+Sophons members, Yuanhe li & some great fellas from class of 2021, and our OG advisors Mingpu Liu, Yulan Zhou, Yulun Wu from BNDS class of 2020
 
 Sophons members:
 Haochuan Wang, Yichen Wang, Jiaying Zhou, Bingan Chen, Yifei Li, Runxin Yan, 
@@ -11,7 +11,7 @@ Chuqiao Chen, Ziqian Zhao, Jiarui Wu, Chi Sun, Qiyao Wang, Boyan Zhang
 
 <img src="https://github.com/KevinChunye/BNDS-Space-Design/blob/main/images/Sophons_BNDS_Space%20Design.jpg" width="450" height="340" />
 
-2021-2022(from BNDS class 2022):
+2021-2022(from BNDS class of 2022):
 Lingxi Han, Yunshi Qi 
 Mike Qi Yunshi, Logan Wangzichu, Tony Fuminghe, Rubin Duruidong, Tony Yu Tianrun, Henry Mao Xutao, 
 William Zhang Shiyu, Ivy Xin Yixuan, Jack Chen Yifeng, Sharon Cai Yuxuan, Mary Li Mairui
